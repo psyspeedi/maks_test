@@ -1,0 +1,438 @@
+{
+  "slider": [
+    {
+      "id": "dd2832e7-19b8-46ec-8d06-fbb78a7b4201",
+      "image": "https://images.unsplash.com/photo-1590212137432-75d202d38f7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "likes": 2
+    },
+    {
+      "id": "8a2a3b82-54c6-43d0-bac5-e93af3cfc801",
+      "image": "https://images.unsplash.com/photo-1589957734613-1a8aa1766b16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "likes": 5
+    },
+    {
+      "id": "f2518fbb-a4e9-4310-a946-9bc90c072266",
+      "image": "https://images.unsplash.com/photo-1590180152085-cbae128c5235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "likes": 5
+    },
+    {
+      "id": "e62299b3-68ca-4380-b214-2602a1f1dc20",
+      "image": "https://images.unsplash.com/photo-1578961771886-97d51aee46bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=659&q=80",
+      "likes": 4
+    },
+    {
+      "id": "6759bebf-f446-4fcb-84ba-d47f667ce226",
+      "image": "https://images.unsplash.com/photo-1590350143834-2dd77a7e6af7?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "likes": 2
+    },
+    {
+      "id": "b5105069-4ef1-4432-a8f3-a38ada2ab10e",
+      "image": "https://images.unsplash.com/photo-1589566856690-fc68ac16845c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "likes": 7
+    },
+    {
+      "id": "160d8ae5-771a-4261-a2e2-504bea00d09c",
+      "image": "https://images.unsplash.com/photo-1590345663334-145e2bd442ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=657&q=80",
+      "likes": 5
+    },
+    {
+      "id": "ef4ec840-cfb3-4532-b4cd-a14f98c507e9",
+      "image": "https://images.unsplash.com/photo-1590234089583-5d51cab15bea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "likes": 1
+    },
+    {
+      "id": "51e32d5d-5304-4e09-945e-c6f69b639f1b",
+      "image": "https://images.unsplash.com/photo-1590229216137-57ebacf5d1a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "likes": 2
+    },
+    {
+      "id": "568917e3-42b9-47b2-ab93-92ec96ace76c",
+      "image": "https://images.unsplash.com/photo-1590147337013-d76595b20390?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
+      "likes": 3
+    }
+  ],
+  "trainer": [
+    {
+      "id": "056f6942-6c06-457a-aabe-cd139bd2af83",
+      "name": {
+        "firstName": "Василий",
+        "secondName": "Гуляев"
+      },
+      "age": 55,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/peachananr/128.jpg",
+      "location": {
+        "city": "New София",
+        "region": "Bedfordshire",
+        "country": "Гондурас"
+      },
+      "role": "Гребля"
+    },
+    {
+      "id": "beef6613-00f8-43a1-a650-dcf03aacaa77",
+      "name": {
+        "firstName": "Жанна",
+        "secondName": "Федоров"
+      },
+      "age": 34,
+      "avatar": "",
+      "location": {
+        "city": "Lake Лаврентийborough",
+        "region": "Borders",
+        "country": "Таджикистан"
+      },
+      "role": "Муай Тай"
+    },
+    {
+      "id": "86126aec-4c2c-4e78-959c-d8a7f6007fe3",
+      "name": {
+        "firstName": "Алёна",
+        "secondName": "Захаров"
+      },
+      "age": 25,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fabbrucci/128.jpg",
+      "location": {
+        "city": "Вадимmouth",
+        "region": "Cambridgeshire",
+        "country": "Того"
+      },
+      "role": "Качалка"
+    },
+    {
+      "id": "bbec31ab-a7d0-428a-91a7-c294b028dff1",
+      "name": {
+        "firstName": "Ульяна",
+        "secondName": "Жуков"
+      },
+      "age": 43,
+      "avatar": "",
+      "location": {
+        "city": "Надеждаland",
+        "region": "Cambridgeshire",
+        "country": "Ирак"
+      },
+      "role": "Бокс"
+    },
+    {
+      "id": "7bd09888-d150-477a-af27-8d29923ed203",
+      "name": {
+        "firstName": "Лука",
+        "secondName": "Лукин"
+      },
+      "age": 31,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/arkokoley/128.jpg",
+      "location": {
+        "city": "South Степан",
+        "region": "Borders",
+        "country": "Польша"
+      },
+      "role": "Качалка"
+    },
+    {
+      "id": "6a45e943-8c88-496d-a8c2-bdccda36ca22",
+      "name": {
+        "firstName": "Семён",
+        "secondName": "Кошелева"
+      },
+      "age": 33,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+      "location": {
+        "city": "South Оксана",
+        "region": "Bedfordshire",
+        "country": "Вануату"
+      },
+      "role": "Муай Тай"
+    },
+    {
+      "id": "eb8c869e-596f-4f72-b306-e94120f0b4ed",
+      "name": {
+        "firstName": "Светлана",
+        "secondName": "Павлова"
+      },
+      "age": 35,
+      "avatar": "",
+      "location": {
+        "city": "New Антонидаberg",
+        "region": "Bedfordshire",
+        "country": "Словакия"
+      },
+      "role": "Бокс"
+    },
+    {
+      "id": "29d3a96f-90f8-45e8-b2b7-ef45dd071454",
+      "name": {
+        "firstName": "София",
+        "secondName": "Крюков"
+      },
+      "age": 37,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shvelo96/128.jpg",
+      "location": {
+        "city": "Таисияport",
+        "region": "Borders",
+        "country": "Ирак"
+      },
+      "role": "Муай Тай"
+    },
+    {
+      "id": "35bd3c92-89e5-450e-a77e-7af6e224ab74",
+      "name": {
+        "firstName": "Ярослав",
+        "secondName": "Ситников"
+      },
+      "age": 44,
+      "avatar": "",
+      "location": {
+        "city": "Сергейville",
+        "region": "Borders",
+        "country": "Мьянма"
+      },
+      "role": "Гребля"
+    },
+    {
+      "id": "b6ee1f07-f143-47a1-91c8-5bb5bdbed4ef",
+      "name": {
+        "firstName": "Дмитрий",
+        "secondName": "Калинина"
+      },
+      "age": 49,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adamnac/128.jpg",
+      "location": {
+        "city": "Ермаковаview",
+        "region": "Bedfordshire",
+        "country": "Палау"
+      },
+      "role": "Бокс"
+    },
+    {
+      "id": "30fc66fd-63a7-414c-97c6-08eb5b24633e",
+      "name": {
+        "firstName": "Игнатий",
+        "secondName": "Силина"
+      },
+      "age": 51,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ahmadajmi/128.jpg",
+      "location": {
+        "city": "Лидияhaven",
+        "region": "Borders",
+        "country": "Нигер"
+      },
+      "role": "Муай Тай"
+    },
+    {
+      "id": "2fe0c50f-f7b1-48b7-a3d7-2ce3c898c82c",
+      "name": {
+        "firstName": "Олег",
+        "secondName": "Александрова"
+      },
+      "age": 53,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/perretmagali/128.jpg",
+      "location": {
+        "city": "Новиковаshire",
+        "region": "Buckinghamshire",
+        "country": "Конго"
+      },
+      "role": "Муай Тай"
+    },
+    {
+      "id": "0cb65bf8-6000-4738-90cf-f7750629ded4",
+      "name": {
+        "firstName": "Анжела",
+        "secondName": "Громов"
+      },
+      "age": 55,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/salvafc/128.jpg",
+      "location": {
+        "city": "North Варвара",
+        "region": "Buckinghamshire",
+        "country": "Малайзия"
+      },
+      "role": "Качалка"
+    },
+    {
+      "id": "0a788fe5-a18a-45f3-9098-3672fc1d4fed",
+      "name": {
+        "firstName": "Даниил",
+        "secondName": "Бобров"
+      },
+      "age": 22,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleclarsoniv/128.jpg",
+      "location": {
+        "city": "West Ильяfort",
+        "region": "Buckinghamshire",
+        "country": "Марокко"
+      },
+      "role": "Бокс"
+    },
+    {
+      "id": "70363ab5-551e-4a07-8ef1-08d67a9407b3",
+      "name": {
+        "firstName": "Григорий",
+        "secondName": "Евдокимова"
+      },
+      "age": 54,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/balintorosz/128.jpg",
+      "location": {
+        "city": "East Арсенийhaven",
+        "region": "Buckinghamshire",
+        "country": "Узбекистан"
+      },
+      "role": "Гребля"
+    },
+    {
+      "id": "b2d8195a-282d-44b8-b4e8-db43436e4cc2",
+      "name": {
+        "firstName": "Маргарита",
+        "secondName": "Лаврентьев"
+      },
+      "age": 42,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/benoitboucart/128.jpg",
+      "location": {
+        "city": "Аннаmouth",
+        "region": "Avon",
+        "country": "Молдова"
+      },
+      "role": "Гребля"
+    },
+    {
+      "id": "8334d212-7f7a-460b-8181-08f295ebe680",
+      "name": {
+        "firstName": "Евгений",
+        "secondName": "Веселова"
+      },
+      "age": 21,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joreira/128.jpg",
+      "location": {
+        "city": "New Валерияberg",
+        "region": "Bedfordshire",
+        "country": "Гайана"
+      },
+      "role": "Бокс"
+    },
+    {
+      "id": "7bfcd964-997a-4aff-80c6-baedda9e2a93",
+      "name": {
+        "firstName": "Вадим",
+        "secondName": "Абрамова"
+      },
+      "age": 27,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/craigrcoles/128.jpg",
+      "location": {
+        "city": "North Александрbury",
+        "region": "Cambridgeshire",
+        "country": "Судан"
+      },
+      "role": "Качалка"
+    },
+    {
+      "id": "93f5bbb1-81a0-417b-9030-516307c4088d",
+      "name": {
+        "firstName": "Леонид",
+        "secondName": "Голубева"
+      },
+      "age": 23,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tonymillion/128.jpg",
+      "location": {
+        "city": "East Вера",
+        "region": "Avon",
+        "country": "Бахрейн"
+      },
+      "role": "Смешанные единоборства"
+    },
+    {
+      "id": "34204e49-4a26-403b-821c-10e38f16b8c5",
+      "name": {
+        "firstName": "Александр",
+        "secondName": "Копылова"
+      },
+      "age": 55,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Talbi_ConSept/128.jpg",
+      "location": {
+        "city": "North Татьянаmouth",
+        "region": "Berkshire",
+        "country": "Кука острова"
+      },
+      "role": "Муай Тай"
+    }
+  ],
+  "news": [
+    {
+      "id": "3572d679-ac83-4b0e-80b7-8c5ebedb7cb2",
+      "title": "cumque iste ut",
+      "briefInformation": "Labore consequatur perspiciatis laborum temporibus consequatur voluptates. Ut error et eos provident tenetur culpa iure aut inventore. Animi odio voluptatum repellat veritatis enim asperiores itaque velit. Doloribus est voluptatem.",
+      "fullInformation": "Odit tempora dolores culpa magni voluptatem reiciendis. Itaque ut perspiciatis est. Molestiae quam eligendi et.\n \rMolestiae fugit omnis quibusdam quia ratione et ex necessitatibus. Modi corporis amet et ea ut soluta molestiae. Suscipit sint architecto maiores autem quisquam quaerat et.\n \rMaxime dolores ut nesciunt esse. Neque eos qui laudantium qui dolorem culpa. Voluptatem ut doloremque."
+    },
+    {
+      "id": "11d75d6f-0442-419e-93a1-7bac0f7bf3e6",
+      "title": "et voluptatem delectus",
+      "briefInformation": "Ab at quis sed esse aut similique consequuntur. Non voluptates quia officiis quis praesentium magni ratione fuga. Est neque minus at et praesentium animi voluptates ipsam blanditiis. Quae at voluptatem deleniti voluptas aut repellat voluptatibus. Rerum dignissimos vero quibusdam explicabo deserunt rerum quia. Libero nostrum numquam.",
+      "fullInformation": "Ut enim libero iure non. Enim et vel provident placeat aperiam doloribus quae temporibus. Distinctio unde aut fugiat placeat magnam sit odit. Cum nam dolores architecto vitae velit vel eligendi saepe amet. Accusantium dolorum molestiae debitis distinctio earum ut. Fugiat nostrum et molestiae itaque quidem.\n \rQuia deserunt quas voluptas quidem autem sit assumenda. Occaecati non rerum sed aut neque voluptatem quo provident laudantium. Voluptatem eum eius fugit consequatur quas autem. Excepturi maxime corrupti tenetur rem culpa repellat dignissimos velit tenetur. Omnis repudiandae sed.\n \rQui ipsam cum ducimus quisquam eaque aut corrupti. Et mollitia sunt. Soluta omnis aut totam consequatur et reiciendis aut nihil nobis. Nemo eligendi est culpa commodi."
+    },
+    {
+      "id": "eca7bfd5-abb8-40df-bc7f-7d20900ccc9a",
+      "title": "exercitationem voluptatem fuga",
+      "briefInformation": "Error totam vel sit. Fugit perferendis ea ea est corporis. Dolores magnam nulla voluptas dolorem id eveniet perspiciatis voluptate odit. Ratione voluptatum iusto sed tenetur tenetur tempore.",
+      "fullInformation": "Voluptate natus cum voluptas earum magnam iusto omnis et. Enim eaque perferendis ullam doloremque sapiente. Id qui molestias. Placeat similique aliquid commodi omnis sunt. Ut suscipit culpa laboriosam.\n \rDolores iste est. Quis praesentium et quis sit quia iusto et iste. Voluptate error soluta soluta aut.\n \rArchitecto nisi dolorem. Culpa molestiae minima harum magnam ut harum. Dolorem adipisci quam dolorem. Qui voluptates autem iure quaerat et. Itaque recusandae exercitationem laudantium inventore rerum fuga tenetur quis."
+    },
+    {
+      "id": "9eaced0b-5202-49e4-bc58-5c23ab68a1c9",
+      "title": "fuga omnis quod",
+      "briefInformation": "Ut deserunt fuga velit illo esse. Iste dolorem esse et quo tenetur excepturi. Corporis excepturi quis est quasi repellat rem. Dolorem et placeat dolorum laborum consequatur quasi. Earum possimus esse ea distinctio soluta nisi est ratione. Et natus odio.",
+      "fullInformation": "Et quo repellat dolorem aut et assumenda molestiae dolor. Consequatur praesentium deleniti. Voluptas quos recusandae vero ut dolor temporibus. Et fugit molestiae laboriosam itaque nisi praesentium.\n \rAut ut et et esse quam nulla vero voluptatem. Sequi dicta reiciendis dolorum cupiditate earum architecto debitis molestiae. Ut possimus quasi. Neque impedit illo consequatur atque accusamus. Quaerat sit sunt ut odit veritatis corporis sapiente ad qui. Laborum velit accusantium totam voluptate at illo rerum ullam.\n \rRecusandae temporibus quidem saepe. Officiis eius ratione sed. Assumenda voluptatem pariatur accusantium qui excepturi ratione sint. Enim laboriosam maxime aut qui itaque. Dolor voluptas est sint non voluptate. Nam recusandae est aliquid id."
+    },
+    {
+      "id": "0706ba0e-7e1c-43cb-976b-8bf28c569c38",
+      "title": "molestiae commodi animi",
+      "briefInformation": "Voluptatum ab odio a et quaerat. Magnam molestias quisquam enim mollitia quos deleniti vitae ea. Nihil quae sint ut amet. Error quisquam vero laboriosam.",
+      "fullInformation": "Labore id odit quis necessitatibus enim eveniet ex. Provident ut natus quibusdam mollitia commodi rerum voluptates deserunt voluptatum. Est sint nihil praesentium culpa explicabo ullam et.\n \rUllam temporibus aliquid deserunt nostrum ut. Ut veniam fugit. Rerum sit debitis eveniet. Consequuntur numquam maxime sit est perspiciatis sed voluptas corporis quidem.\n \rFacere sequi est illum et maxime. Nemo ut alias aspernatur architecto recusandae et pariatur deserunt. Ipsa nam magnam et. Eaque eum adipisci molestiae tempora eligendi error. Perferendis aut sit qui odit minima temporibus id. Enim expedita quia eius illum qui."
+    },
+    {
+      "id": "5bc7db93-dbe9-4fdb-a0b0-4cd0dabd91ae",
+      "title": "iure vel consequatur",
+      "briefInformation": "Omnis atque optio commodi deserunt. Occaecati est reprehenderit voluptatem ut repudiandae necessitatibus. Molestias quo et ut. Maxime perferendis sit quia labore quia aut reprehenderit quos hic. Asperiores laboriosam molestiae.",
+      "fullInformation": "Omnis libero velit. Illum eaque aut eum veritatis tempora nostrum. Beatae aut quae autem ut dicta cum nemo voluptas. Odio velit aspernatur reprehenderit vero consequatur beatae velit qui. Aliquam facilis iure. Qui enim praesentium est ducimus tempora expedita ratione quasi.\n \rIusto numquam voluptatibus est delectus voluptatum omnis natus quia. In corrupti ex facere. Ut laboriosam sint impedit quidem et totam veritatis rerum.\n \rRatione facilis sint dolores tenetur qui labore fuga. Magnam saepe deserunt aliquid fugiat culpa. Perspiciatis sed laborum incidunt aut quibusdam non distinctio delectus."
+    },
+    {
+      "id": "deff0588-abcc-4472-a9ee-dff67724cd44",
+      "title": "fugiat molestias corrupti",
+      "briefInformation": "Quia soluta et. Dicta earum voluptatem debitis non neque eos. Illum quisquam ad recusandae fugit id consequatur in eum aspernatur. Explicabo modi nemo quia. Quod optio ratione sint libero suscipit. Corporis sed quia molestias voluptate est ex rerum nesciunt.",
+      "fullInformation": "Ipsum voluptas veniam velit tenetur autem nihil iure eum suscipit. Aut tempore blanditiis. Eos qui autem quis maxime est fugiat blanditiis labore.\n \rUt est maiores error amet officiis sequi. Qui ea et expedita qui eligendi laborum ipsa ea molestias. Et quis ut et recusandae ex laboriosam alias saepe. Expedita perspiciatis quam quia exercitationem quam quo. Aperiam facilis odit sed facilis sint tempore. Quis possimus hic sint consequatur eos quisquam ullam quo.\n \rVoluptas unde nostrum ullam esse et sunt explicabo aut distinctio. Dolorem reiciendis saepe voluptatem itaque. A ut illo voluptate et. Autem eveniet quibusdam. Dolores quia harum cumque qui."
+    },
+    {
+      "id": "1d029e6d-5876-4f24-b2b4-67c5af3e4df4",
+      "title": "minima cumque aut",
+      "briefInformation": "Nihil ea explicabo et quis quia possimus facere sunt. Alias ea modi et reprehenderit distinctio nemo. Aliquam atque facere libero eos vel illo rerum. Voluptas et rerum perspiciatis. Quasi hic iusto quod ea quae excepturi voluptatum.",
+      "fullInformation": "Ut vel et voluptatem soluta debitis culpa saepe. Cupiditate molestiae recusandae nulla quia suscipit et laborum dolorem voluptatibus. Vitae eos soluta.\n \rDicta illum commodi et cupiditate consectetur. Facilis nesciunt quos sit quibusdam ut quisquam voluptatum. Odio distinctio et nulla animi.\n \rAutem autem quisquam repellendus. Qui eligendi magni mollitia iure voluptas id rerum placeat et. Nobis non dolorem occaecati quis sit quae alias quas. Veniam consectetur blanditiis voluptatibus eveniet."
+    },
+    {
+      "id": "6459b4b9-41d3-41d3-aaab-7cc84f142fef",
+      "title": "facere ab velit",
+      "briefInformation": "Unde in dolorem nesciunt harum error ut. Pariatur ut non aspernatur veniam id amet quis eius magnam. Dolorum minus eum qui distinctio modi dolores facere doloribus qui. Est aut similique recusandae modi blanditiis. Totam aut non et vitae sed praesentium.",
+      "fullInformation": "Ea odit exercitationem porro occaecati. Suscipit quasi libero est quos quod qui quia enim qui. Dolores dolorum ipsam iure eius nisi nisi. Et voluptatem dolores non repudiandae laboriosam maxime nesciunt reprehenderit. Corporis sit nihil hic voluptatem error accusantium architecto. Et quia neque et recusandae perferendis omnis nemo laboriosam.\n \rEt possimus qui sed. Neque autem dicta esse consequuntur error in perferendis. Aut repellendus sint enim laboriosam.\n \rBlanditiis beatae cum quasi dolor accusamus tenetur asperiores. Omnis ex non doloremque magni excepturi harum temporibus. Et assumenda tempora et ipsum aut qui."
+    },
+    {
+      "id": "4f79c5f0-106f-4c95-9d92-7be2f8d41173",
+      "title": "autem alias eligendi",
+      "briefInformation": "Et quia cumque molestiae amet ex sit. Alias soluta id autem aut. Voluptas veniam illo est blanditiis reprehenderit.",
+      "fullInformation": "Neque neque officia rerum voluptates in molestiae qui sit. Quo commodi maxime illum sequi consequatur. Sed rerum magni aliquid. Molestias qui inventore similique et consequatur sint ipsum.\n \rVelit aut enim vitae esse veritatis nostrum officiis possimus. Hic impedit exercitationem inventore aliquid nemo consequatur accusantium. Facere ipsam distinctio laborum dolores sit est nihil. Est pariatur et voluptatem quibusdam deserunt deleniti dolores. Omnis optio beatae nemo quisquam.\n \rNam rem et quae minima sed quae nesciunt ut. Culpa saepe voluptate vitae numquam quis exercitationem dolorum libero. Error et quis rerum voluptas. Impedit est cupiditate beatae. Itaque officiis beatae repellendus cumque non facere eaque natus odit. Voluptatem ratione cum quo quos."
+    },
+    {
+      "id": "f8b767ef-6caf-4200-b749-2c7bd0838879",
+      "title": "omnis eaque magnam",
+      "briefInformation": "Maxime eligendi et distinctio molestiae ab nemo voluptas dignissimos. Neque dolores maxime nulla aut velit labore. Qui neque esse repudiandae fugiat minima ea omnis quidem maxime.",
+      "fullInformation": "Voluptatem veniam illo saepe eos laborum ullam. Vitae sed doloribus dolorem neque. Rerum aperiam soluta odio soluta eos. Laudantium et nesciunt delectus eius. Autem corrupti ipsum quas pariatur. Nulla aperiam explicabo pariatur non quis sint fuga tempora rerum.\n \rInventore rerum at fuga placeat sit amet. Dolore iure dolor eum in neque et aut. Aspernatur omnis molestias vel. Mollitia voluptatem laudantium voluptatibus nostrum eaque dicta dolor nesciunt quasi. Et corrupti ea perferendis perferendis.\n \rDignissimos provident eaque illo ipsa. Et incidunt qui nesciunt qui voluptatem ut. Earum facere et sed laudantium officia molestias hic autem iure. Aspernatur voluptas vel unde eos vitae."
+    },
+    {
+      "id": "e0a0f13c-2f95-4c43-95cf-ec4c078b94fa",
+      "title": "amet eveniet nesciunt",
+      "briefInformation": "Culpa illo esse facere unde eos reiciendis vel quasi. Repellat voluptas ut exercitationem dolorem voluptas repudiandae voluptate. Eum repellat fugit et qui enim culpa eius in sit. Explicabo dolore deserunt natus cum id earum. Harum delectus provident. Fuga quos nihil.",
+      "fullInformation": "Dignissimos non provident sapiente sed laboriosam quisquam et similique. Cupiditate recusandae neque aperiam temporibus suscipit aliquam. Qui velit dolorem.\n \rQuibusdam non est quae voluptas perferendis. Officia optio occaecati ut quia tempora qui voluptatem quo. Sit unde deserunt. Officiis vero vel. Eos quos distinctio et qui ab. Debitis iusto ut minima nesciunt.\n \rUt dolor magni delectus ut quasi dolores. Similique aut eum vel dolorem laborum magni facilis. Necessitatibus delectus sunt voluptate. Aut officia dolore ex occaecati ex aut nihil ratione."
+    }
+  ],
+  "user": [
+    {
+      "id": "5h8sad7e-9afa-4405-a666-7a94b6582378",
+      "isLogin": true,
+      "nick": "Dan",
+      "avatar": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/square_480/oapgW_Fp_400x400.jpg"
+    }
+  ]
+}

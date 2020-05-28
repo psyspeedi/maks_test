@@ -1,24 +1,25 @@
 # maks-test
 
-## Project setup
-```
-npm install
-```
+## Для того чтобы запустить локально выполните следующие действия
 
-### Compiles and hot-reloads for development
+
+### 1. Cкачайте репозиторий
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 2. Установите зависимости выполнив в корневой папке
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 3. После установки зависимостей выполните команду 
+```
+npm run serve
+```
+
+### 4. Браузер откроется автоматически, если нет, то перейдите по адресу 
+
+```
+http://localhost:8080/
+```
