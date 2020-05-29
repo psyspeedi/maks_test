@@ -19,7 +19,6 @@ const routes = [
     path: '/news/detail/:id',
     name: 'NewsDetail',
     component: () => import('../components/NewsDetail.vue')
-
   },
   {
     path: '/trainer',

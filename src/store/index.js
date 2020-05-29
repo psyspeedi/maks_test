@@ -52,14 +52,14 @@ export default new Vuex.Store({
     }
   },
   actions: {
-    async fetchSlides({ commit }) {
-      await fetch('http://localhost:3000/slider')
+    fetchSlides({ commit }) {
+      return fetch('http://localhost:3000/slider')
         .then(res => res.json())
         .then(data => commit('setSlides', data))
         .catch(e => console.log(e))
     },
-    async updateSlides({ commit }, {id, likes}) {
-      await fetch('http://localhost:3000/slider/' + id, {
+    updateSlides({ commit }, {id, likes}) {
+      return fetch('http://localhost:3000/slider/' + id, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json;charset=utf-8'
@@ -72,14 +72,14 @@ export default new Vuex.Store({
         })
         .catch(e => console.log(e))
     },
-    async fetchUser({ commit }) {
-      await fetch('http://localhost:3000/user')
+    fetchUser({ commit }) {
+      return fetch('http://localhost:3000/user')
         .then(res => res.json())
         .then(data => commit('setUser', data[0]))
         .catch(e => console.log(e))
     },
-    async login({ commit }, id) {
-      await fetch('http://localhost:3000/user/' + id, {
+    login({ commit }, id) {
+      return fetch('http://localhost:3000/user/' + id, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json;charset=utf-8'
@@ -92,8 +92,8 @@ export default new Vuex.Store({
         })
         .catch(e => console.log(e))
     },
-    async logout({ commit }, id) {
-      await fetch('http://localhost:3000/user/' + id, {
+    logout({ commit }, id) {
+      return fetch('http://localhost:3000/user/' + id, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json;charset=utf-8'
@@ -106,14 +106,14 @@ export default new Vuex.Store({
         })
         .catch(e => console.log(e))
     },
-    async fetchNews({ commit }) {
-      await fetch('http://localhost:3000/news')
+    fetchNews({ commit }) {
+      return fetch('http://localhost:3000/news')
         .then(res => res.json())
         .then(data => commit('setNews', data))
         .catch(e => console.log(e))
     },
-    async fetchTrainers({ commit }) {
-      await fetch('http://localhost:3000/trainer')
+    fetchTrainers({ commit }) {
+      return fetch('http://localhost:3000/trainer')
         .then(res => res.json())
         .then(data => commit('setTrainers', data))
         .catch(e => console.log(e))

@@ -84,6 +84,7 @@
     },
     async mounted() {
       await this.$store.dispatch('fetchSlides')
+      await this.$store.dispatch('fetchSlides')
       this.dataReady = true
     }
   }
